@@ -6,6 +6,7 @@ import './style.css'
 //import  './temas-ts/05-desestructurar-funciones.ts'
 //import  './temas-ts/06-exportar-importar.ts'
 import  './temas-ts/07-clases.ts'
+
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
